@@ -18,5 +18,6 @@ Python, R, DESeq2, GSEApy, Pandas, Matplotlib, Nextflow, Relevance AI
 📫 Contact
 📧 noushin.moshgabadi@gmail.com
 
-💼 LinkedIn
+💼 LinkedIn:
+https://www.linkedin.com/in/noushinmoshgabadi/
 -->

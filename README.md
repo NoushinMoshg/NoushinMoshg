@@ -1,4 +1,4 @@
-👋 Hi, I’m Noushin Moshgabadi
+👋 Hi, I’m Noushin
 
 Bioinformatics scientist integrating molecular biology, NGS, and computational analysis to advance precision oncology and biomarker discovery.
 
